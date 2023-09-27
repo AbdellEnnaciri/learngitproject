@@ -1,0 +1,14 @@
+body{
+    background-color: aqua;
+    margin: 0 auto;
+    max-width: 800px;
+}
+
+.h1{
+    color: aliceblue;
+    font-size: 50px;
+}
+
+.p{
+    font-size: 22px;
+}
